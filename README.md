@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Computer Engineering student in Turkey</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on Java Swing<br>🌱 I’m currently learning Spring<br>
+🔭 I’m currently working on Java Spring Boot<br>🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
